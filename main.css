@@ -1,0 +1,86 @@
+#tm{
+    background-color: #19A7CE;
+    font-size: 3rem;
+    padding: 15px;
+    color: white;
+}
+
+.maincontainer{
+    position: absolute;
+    height: -webkit-fill-available;
+    width: 100%;
+}
+
+.mapDiv{
+    background-color: #FFF2CC;
+    padding: 15px;
+    margin-left: 12px;
+    height: 85%;
+    
+}
+
+.mapheader{
+    background-color: #19A7CE;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.mapdisplay{
+    width: 100%;
+    height: 100%;
+    border-style: groove;
+}
+
+#eventDiv{
+    background-color: #FFF2CC;
+    padding: 15px;
+    margin-top: 10px;
+    height: 50%;
+}
+
+.eventheader{
+    background-color: #19A7CE;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.eventdisplay{
+    width: 100%;
+    height: 85%;
+    border-style: groove;
+}
+
+#LiveFeedDiv{
+    background-color: #FFF2CC;
+    padding: 15px;
+    margin-top: 10px;
+    height: 41%;
+}
+
+.liveheader{
+    background-color: #19A7CE;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.livedisplay{
+    width: 100%;
+    height: 85%;
+    border-style: groove;
+}
+
+.display{
+    height: 100%;
+    background-color: #FFF2CC;
+}
+
+.maindiv{
+    width: fit-content;
+}
+
+body{
+    background-color: #FFF2CC;
+}
